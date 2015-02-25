@@ -1,2 +1,3 @@
 # hello-world
-Test repository
+Test repository.
+This is a repo for test githib features.
